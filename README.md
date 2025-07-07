@@ -6,7 +6,7 @@ A professional offline photo-organizing application built fully in **C++** using
 
 ---
 
-## 🚩 Problem
+## Problem
 
 Most users today have thousands of unorganized photos on their phones or laptops. Common issues include:
 - ❌ Duplicate or burst images taking up space
