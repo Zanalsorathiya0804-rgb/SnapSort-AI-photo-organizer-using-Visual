@@ -10,7 +10,7 @@ A professional offline photo-organizing application built fully in **C++** using
 
 Most users today have thousands of unorganized photos on their phones or laptops. Common issues include:
 - Duplicate or burst images taking up space
-- ❌ No automatic way to create albums based on events or dates
+- No automatic way to create albums based on events or dates
 - ❌ Manual sorting and tagging is time-consuming
 - ❌ Searching for a photo like “Goa trip 2024” is difficult without structured albums
 
