@@ -10,7 +10,7 @@ Most users today have thousands of unorganized photos on their phones or laptops
 - Duplicate or burst images taking up space
 - No automatic way to create albums based on events or dates
 - Manual sorting and tagging is time-consuming
-- ❌ Searching for a photo like “Goa trip 2024” is difficult without structured albums
+- Searching for a photo like “Goa trip 2024” is difficult without structured albums
 
 There is **no lightweight, offline C++ tool** that solves this using intelligent logic and structured algorithms.
 
