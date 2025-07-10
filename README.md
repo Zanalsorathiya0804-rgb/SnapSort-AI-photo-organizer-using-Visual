@@ -20,7 +20,7 @@ There is **no lightweight, offline C++ tool** that solves this using intelligent
 
 **SnapSort** solves this problem by applying advanced image and data structure logic to:
 - Automatically organize photos into **albums** by time and similarity
-- ✅ Detect and group **duplicate or burst images**
+- Detect and group **duplicate or burst images**
 - ✅ Extract time data and visually hash each image
 - ✅ Use **DSA** to intelligently cluster, search, and tag
 - ✅ Save results into neat folders like `album_0`, `album_1`, etc.
