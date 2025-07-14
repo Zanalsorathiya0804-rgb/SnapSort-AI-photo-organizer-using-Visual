@@ -50,7 +50,6 @@ All this is done **offline**, using pure C++ for performance, and no external cl
 - 🚀 Solves a **real-world daily problem** (photo mess)
 - 🧠 Uses **classic DSA** to solve a visual, practical challenge
 - 📁 Completely **local** and **privacy-friendly**
-- 💼 Perfect for **resumes, internships, MLH, and GSoC**
 - 🔧 Built with **zero Python, cloud, or external API dependency**
 
 ---
