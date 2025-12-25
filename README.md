@@ -1,7 +1,9 @@
 # SnapSort – AI-Powered Photo Organizer using Visual Intelligence & DSA (C++ Project)
 
 A professional offline photo-organizing application built fully in **C++** using **OpenCV** and classic **Data Structures & Algorithms (DSA)** like Trie, Union-Find, Graphs, and Sliding Window.
+
 ---
+
 ## Problem
 
 Most users today have thousands of unorganized photos on their phones or laptops. Common issues include:
